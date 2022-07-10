@@ -1,0 +1,1 @@
+AZURE_STORAGE_CONNECTION_KEY='DefaultEndpointsProtocol=https;AccountName=photosstorageapp;AccountKey=Yi+D+NgFV1gmP925HiPrn8WxGkacRlGFEOCsEipqKmKZOaDOP3sdLBQ7Pl4U2V8ewmgoz8Wbmjdc+AStUaAZvg==;EndpointSuffix=core.windows.net'
